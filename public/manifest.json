@@ -1,0 +1,16 @@
+{
+  "name": "Lits Event Support - Professional Event Organizer",
+  "short_name": "Lits Event",
+  "description": "Professional event organizer dan audio visual services dengan pengalaman lebih dari 5 tahun",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffaf5b",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "400x200",
+      "type": "image/png"
+    }
+  ]
+}
